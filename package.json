@@ -15,6 +15,11 @@
   ],
   "author": "class_liangmu",
   "license": "ISC",
+  "homepage": "https://github.com/liangmu123/lm-cli/blob/master/readme.md",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/liangmu123/lm-cli.git"
+  },
   "dependencies": {
     "chalk": "^4.1.1",
     "child_process": "^1.0.2",
