@@ -1,1 +1,4 @@
-# hello world
+## Install
+```shell
+npm install @class_liangmu/lm-cli -D
+```

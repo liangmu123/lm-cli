@@ -6,7 +6,8 @@
   "bin": {
     "lm": "./bin/lm.js"
   },
-  "scripts": {},
+  "scripts": {
+  },
   "keywords": [
     "工具库",
     "node",
